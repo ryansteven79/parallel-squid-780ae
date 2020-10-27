@@ -29,7 +29,8 @@
                 "url": "/contact",
                 "style": "primary"
             }
-        ]
+        ],
+        "logo": "images/webdev_rr_02.jpg"
     },
     "footer": {
         "has_nav": true,
